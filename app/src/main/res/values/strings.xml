@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- 로그인 화면 -->
+    <string name="error_empty_user_id">아이디를 입력해주세요.</string>
+    <string name="error_empty_user_pw">비밀번호를 입력해주세요.</string>
+    <string name="toast_fail_login">아이디와 비밀번호를 다시 확인해주세요.</string>
+
+    <!-- 등록 화면 -->
+    <string name="error_empty_email">이메일을 입력해주세요.</string>
+    <string name="error_empty_phone">핸드폰번호를 입력해주세요.</string>
+    <string name="error_empty_pw_confirm">비밀번호를 재입력해주세요.</string>
+    <string name="error_empty_name">이름을 입력해주세요.</string>
+    <string name="error_different_pw">작성한 비밀번호가 일치하지 않습니다.</string>
+    <string name="text_share">공유</string>
+    <string name="toast_fail_add">선택된 이미지, 동영상이 없습니다.</string>
+
+</resources>
