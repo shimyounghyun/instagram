@@ -13,5 +13,5 @@
 - 팔로우
 
 # 실행 화면
-![result (1)](https://user-images.githubusercontent.com/26181611/97955396-6c825b80-1de9-11eb-9c99-1cafafe963e6.gif)
+![result (2)](https://user-images.githubusercontent.com/26181611/97955525-b8350500-1de9-11eb-9fab-9af10da670ce.gif)
 <br>
